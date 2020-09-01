@@ -1,0 +1,9 @@
+# Ignorar tudo
+*
+# Exceto os subdiretórios
+!/**/
+# Exceto os arquivos com extensão
+!*.*
+
+# Ignora a pasta .vscode
+.vscode/
